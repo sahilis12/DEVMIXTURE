@@ -1,0 +1,16 @@
+TO-DO FOR DATE:  01-11-2022                                                                         STATUS
+    TASK 1:HEADER FOR DEVMIXTURE                                                                   PENDING.
+    TASK 2:FOOTER FOR DEVMIXTURE                                                                   DONE.   
+    TASK 3:TALK WITH PARTNER ON DESIGN                                                             PENDING.
+    TASK 4:RUFF SKETCH OF UI.                                                                      PENDING.
+    OPTIONAL TASK: BLOG CLONE.                                                                     PENDING.
+
+
+TO-DO FOR DATE:  02-11-2022 
+    TASK 1:TASK 1 OF 01-11-2022                                                                                        
+    TASK 2:TASK 4 OF 01-11-2022                                                                                        
+    TASK 3:CONTENTS TO ADD ON HOME.                                                                                    
+    TASK 4:CONTENTS OF CARDS.                                                                                       
+    OPTIONAL TASK: BLOG CLONE.                                                                     
+
+    
