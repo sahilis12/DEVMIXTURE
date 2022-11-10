@@ -77,8 +77,7 @@ body{
 footer{
     margin-top: auto;
 }
-
-
+ 
 footer .container {
     max-width: 1170px;
     /* background-color: red; */
@@ -140,6 +139,10 @@ footer .container {
     padding-left: 2px;
 }
 
+.social-links{
+    display: flex;
+    width: 14rem;
+}
 .footer-col .social-links a{
     display: inline-block;
     height: 40px;

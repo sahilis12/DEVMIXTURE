@@ -11,9 +11,9 @@ body{
     justify-content: center;
     background: #f2f2f2;
 }
-/* .swiper{
+.swiper{
     width: 950px;
-} */
+}
 .container{
     position: relative;
     height: 450px; 
