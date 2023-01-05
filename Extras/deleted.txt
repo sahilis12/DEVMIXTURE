@@ -1,0 +1,28 @@
+<!-- <div class="header">
+        <div class="logo"><h1>DEV<span>MIXTURE</span></h1></div>
+        <nav class="navigate">
+            <a href="" class="headerLists">Home</a>
+            <a href="" class="headerLists">About</a>
+            <a href="" class="headerLists">Community</a>
+            <a href="" class="headerLists">Contact</a>
+        </nav> -->
+      <!-- <div class="header">
+          <div class="logo"><h1>DEV<span>MIXTURE</span></h1></div>
+          <nav class="navigate">
+              <a href="" class="headerLists">Home</a>
+              <a href="" class="headerLists">About</a>
+              <a href="" class="headerLists">Community</a>
+              <a href="" class="headerLists">Contact</a>
+          </nav>
+          <div class="Title-show">
+              <h3>DevMixture</h3>
+              <p>Explore free resources,roadmaps,blogs,community chatrooms and many more.</p>
+              <a href="#"><button class="Explore">Explore</button></a>
+          </div> -->
+
+
+
+
+
+
+          

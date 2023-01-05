@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background: #fff;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+.signinform {
+    margin-top: 30vh;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    background: #ea8585;
+    padding: 6rem;
+    border: none;
+    border-radius: 1rem;
+}
+
+input{
+    margin: 1rem;
+    padding-left: 2.5rem;
+    border: none;
+    border-radius: 0.3rem;
+    padding-right: 2.5rem;
+    padding-top: 0.6rem;
+    padding-bottom: 0.6rem;
+    text-align: center;
+    font-size: 1rem;
+
+}
+.Signinbtn{
+    padding-left: 6.8rem;
+    padding-right: 6.8rem;
+    padding-top: 0.7rem;
+    padding-bottom: 0.7rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: none;
+    border-radius: 0.3rem;
+    background: #9df9fe;
+    font-size: 1rem;
+    cursor: pointer;
+    text-decoration: none;
+}
+a{
+    /* text-decoration: none; */
+    color: rgba(16, 3, 3, 0.904);
+    padding: 0.3rem;
+}
+.loginform{
+    visibility: hidden;    
+}

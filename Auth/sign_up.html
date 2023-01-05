@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Signup Form</title>
+
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+      integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+      crossorigin="anonymous"
+    />
+
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+    <br />
+    <br />
+    <br />
+    <div class="container">
+      <div class="row">
+        <div class="col-md-3"></div>
+
+        <div class="col-md-6 main">
+          <form action="/sign_up" method="post">
+            <h1>Signup</h1>
+            <img src="profile-user.png" alt="">
+            <input
+              class="box"
+              type="text"
+              name="name"
+              id="name"
+              placeholder="Name"
+              required
+            /><br />
+
+            <input
+              class="box"
+              type="email"
+              name="email"
+              id="email"
+              placeholder="E-Mail "
+              required
+            /><br />
+
+            <input
+              class="box"
+              type="password"
+              name="password"
+              id="password"
+              placeholder="Password "
+              required
+            /><br />
+
+            <!-- <input
+              class="box"
+              type="text"
+              name="phone"
+              id="phone"
+              placeholder="Phone Number "
+              required
+              /><br /> -->
+               <input class="box" type="text" name="Role" id="role"
+			placeholder="Admin or user" required/><br>
+            <input class="box" type="text" name="key" id="key"
+			placeholder="key" /><br>
+            <br />
+            <input
+              type="submit"
+              id="submitDetails"
+              name="submitDetails"
+              value="Signup"
+            /><br />
+
+			<a href="/">Already have an account? login</a>
+          </form>
+        </div>
+        <div class="col-md-3"></div>
+      </div>
+      <!-- <div class="image-represent">
+        <img src="" alt="" />Lorem ipsum dolor sit amet consectetur adipisicing
+        elit. Ab impedit quaerat ratione quasi iste, quo recusandae vitae
+        inventore rerum? Reiciendis?
+      </div> -->
+    </div>
+  </body>
+</html>
